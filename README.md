@@ -34,6 +34,7 @@ contains subsections for:
   - data
   - EDA
   - tidy
+  - visualize
 
 ‘Build Model’ contains subsections for:
 

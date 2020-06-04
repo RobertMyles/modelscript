@@ -40,6 +40,7 @@ The template contains a prep and a model building section. 'prep' contains subse
 - data
 - EDA
 - tidy
+- visualize
 
 'Build Model' contains subsections for:
 
