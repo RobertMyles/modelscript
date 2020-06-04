@@ -1,0 +1,4 @@
+Name: modelscript
+Description: Creates a modelling script template in a new .R file.
+Binding: modelscript
+Interactive: false

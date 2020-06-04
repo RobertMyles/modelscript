@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591279728287.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2993030410",
+    "id" : "3A809FF2",
+    "lastKnownWriteTime" : 1591279816,
+    "last_content_update" : 1591279816312,
+    "path" : "~/Documents/modelscript/R/modelscript.R",
+    "project_path" : "R/modelscript.R",
+    "properties" : {
+        "cursorPosition" : "1,4",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
